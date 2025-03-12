@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.amarela{
+    background-color: gold;
+    padding: 15px;
+}
+
+#navbar{
+    text-align: center;
+    background-color:rgba(117, 117, 117, 0.788);
+    color: blueviolet(0, 162, 255);
+}
+
+#noticia{
+    display: flex;
+    justify-content: space-between;
+}
+
